@@ -15,21 +15,18 @@ public class FurnitureTip : MonoBehaviour
 		//myHinge = GetComponent<HingeJoint2D>();
 	}
 	
-	void Update()
-	{
-		//hingeAngle = myRigidbody.GetComponent<HingeJoint2D>().jointAngle;
-		
-		//if(hingeAngle != 0)
-			//hingeAngle = Mathf.Lerp(hingeAngle, 0, 1);
-			
-		//if(myRigidbody.rotation >= 10)
-			
-	}
-	
 	// Update is called once per frame
 	void OnTriggerEnter2D (Collider2D other) 
 	{
 		speed = other.rigidbody2D.velocity.x * factor;
 		myRigidbody.AddTorque(speed);
+		
+		if(Mathf.Abs(speed) >= 7 * factor)
+		MakeSound();
+	}
+	
+	void MakeSound()
+	{
+		Debug.Log("Sound Produced");
 	}
 }
