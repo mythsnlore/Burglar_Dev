@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 942f3efff3cf5314ca977bcf2469a5fd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RoomTile: {fileID: 100000, guid: 735d9efa941807a47aef4db130ba1b54, type: 2}
+  - go: {fileID: 100000, guid: 735d9efa941807a47aef4db130ba1b54, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

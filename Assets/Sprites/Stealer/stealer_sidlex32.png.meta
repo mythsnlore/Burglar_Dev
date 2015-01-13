@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 45994514a83deab4c80b2b934aa1a2f4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stealer_sidlex32_0
+    21300002: stealer_sidlex32_1
+    21300004: stealer_sidlex32_2
+    21300006: stealer_sidlex32_3
+    21300008: stealer_sidlex32_4
+    21300010: stealer_sidlex32_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stealer_sidlex32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: .25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stealer_sidlex32_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: .25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stealer_sidlex32_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: .25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stealer_sidlex32_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: .25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stealer_sidlex32_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: .25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stealer_sidlex32_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: .25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
